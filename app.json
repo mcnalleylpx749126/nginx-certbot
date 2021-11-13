@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/mcnalleylpx749126/nginx-certbot",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
